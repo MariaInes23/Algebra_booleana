@@ -50,7 +50,7 @@ etiqueta.grid(row=0, column=0, sticky='w', pady=10)
 # Entrada de expresión
 entrada_expr = ttk.Entry(marco, width=80, font=("Consolas", 28))
 entrada_expr.grid(row=1, column=0, sticky='we', pady=6)
-entrada_expr.insert(0, "AB + A(B´+C)")  
+  
 
 # Estilo mejorado para el botón
 estilo = ttk.Style()
