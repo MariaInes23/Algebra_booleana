@@ -83,7 +83,7 @@ boton.grid(row=1, column=1, padx=10, pady=6, ipadx=25, ipady=15)
 # Ayuda sobre la expresión
 ayuda_lbl = tk.Label(
     marco,
-    text="(Puede usar +, *, (). Para la negación usar ' o ´)",
+    text="(Puede usar +, *, (). Para la negación usar ' o ´. Se pueden usar todas la letras del abecedario)",
     fg="#004d40",
     bg="#e0f7fa",
     font=("Consolas", 18)
